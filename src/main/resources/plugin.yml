@@ -1,0 +1,11 @@
+name: "io.github.sahibkhokhar.testplugin.TestPlugin"
+version: 1.0.0
+main: io.github.sahibkhokhar.testplugin.TestPlugin
+commands:
+  freediamonds:
+    description: Gives player dead brain coral
+    usage: /<command>
+  garfield:
+    description: Spawns garfield
+    usage: /<command>
+api-version: 1.19
